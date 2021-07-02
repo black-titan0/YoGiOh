@@ -1,0 +1,1 @@
+{"Name":"Dark Hole","Type":"Spell","Property":"Normal","Description":"Destroy all monsters on the field.","Status":"Unlimited","Price":2500,"Action":"->activation-time:**collect<MZ.OMZ>[--];kill;die;"}

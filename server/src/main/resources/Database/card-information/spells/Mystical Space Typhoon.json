@@ -1,0 +1,1 @@
+{"Name":"Mystical Space Typhoon","Type":"Spell","Property":"QuickPlay","Description":"Target 1 Spell/Trap on the field; destroy that target.","Status":"Unlimited","Price":3500,"Action":"->activation-time:**collect<OSZ>[--];select{1};send-to{OGY};die;"}

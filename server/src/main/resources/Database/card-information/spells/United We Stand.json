@@ -1,0 +1,1 @@
+{"Name":"United We Stand","Type":"Spell","Property":"Equip","Description":"The equipped monster gains 800 ATK/DEF for each face-up monster you control.","Status":"Unlimited","Price":4300,"Action":"->activation-time:**collect<MZ.OMZ>[--];select{1};collect<MZ>[--];increase-attack-power{collected×800};make-horcrux->death-time:**cancel{activation-time};"}

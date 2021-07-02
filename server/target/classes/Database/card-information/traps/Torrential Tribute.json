@@ -1,0 +1,1 @@
+{"Name":"Torrential Tribute","Type":"Trap","Property":"Counter","Description":"When a monster(s) is Summoned: Destroy all monsters on the field.","Status":"Unlimited","Price":2000,"Trigger":"wait-for{{MS}}then-do{{*?*collect<MZ.OMZ>[--];kill;die;}}"}

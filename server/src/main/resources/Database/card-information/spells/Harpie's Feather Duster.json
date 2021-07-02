@@ -1,0 +1,1 @@
+{"Name":"Harpie's Feather Duster","Type":"Spell","Property":"Normal","Description":"Destroy all Spells and Traps your opponent controls.","Status":"Limited","Price":2500,"Action":"->activation-time:**collect<OSZ>[--];send-to{OGY};die;"}

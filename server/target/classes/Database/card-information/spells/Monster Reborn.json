@@ -1,0 +1,1 @@
+{"Name":"Monster Reborn","Type":"Spell","Property":"Normal","Description":"Target 1 monster in either GY; Special Summon it.","Status":"Limited","Price":2500,"Action":"->activation-time:**collect<GY.OGY>[-Monster-];select{1};get-in{MZ};die;"}

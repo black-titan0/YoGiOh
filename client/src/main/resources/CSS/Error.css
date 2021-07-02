@@ -1,0 +1,35 @@
+.label {
+    -fx-text-fill: red;
+    -fx-font-family: "DePixel";
+    -fx-font-size: 20;
+}
+
+.root {
+    -fx-background-color: black;
+}
+
+.button {
+    -fx-font-family: "DePixel";
+    -fx-font-size: 18;
+    -fx-text-fill: white;
+    -fx-pref-width: 135px;
+    -fx-pref-height: 30px;
+    -fx-border-width: 3px;
+    -fx-border-style: dashed;
+    -fx-background-color: black;
+    -fx-border-color: #cf2d01;
+}
+
+.button:hover {
+    -fx-text-fill: cyan;
+    -fx-background-color: rgba(82, 103, 253, 0.58);
+    -fx-border-color: cyan;
+    -fx-border-width: 4px;
+}
+
+.button:pressed {
+    -fx-text-fill: cyan;
+    -fx-background-color: rgba(31, 39, 95, 0.83);
+    -fx-border-color: cyan;
+    -fx-border-width: 3px;
+}

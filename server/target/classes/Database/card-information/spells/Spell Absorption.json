@@ -1,0 +1,1 @@
+{"Name":"Spell Absorption","Type":"Spell","Property":"Continuous","Description":"Each time a Spell Card is activated gain 500 Life Points immediately after it resolves.","Status":"Unlimited","Price":4000,"Trigger":"wait-for{{SA}}then-do{{*?*increase-life-point{500}}}"}

@@ -1,0 +1,1 @@
+{"Name":"Trap Hole","Type":"Trap","Property":"Normal","Description":"When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.","Status":"Unlimited","Price":2000,"Trigger":"wait-for{{OMS}}then-do{{*?*negate-summon;collect<TR>[--ATK>=1000];kill;die;}}"}

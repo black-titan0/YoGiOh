@@ -1,0 +1,1 @@
+{"Name":"Terraforming","Type":"Spell","Property":"Normal","Description":"Add 1 Field Spell from your Deck to your hand.","Status":"Limited","Price":2500,"Action":"->activation-time:**collect<D>[-Spell-SpellProperty=4];select{1};send-to{H}"}

@@ -1,0 +1,1 @@
+{"Name":"Change Of Heart","Type":"Spell","Property":"Normal","Description":"Target 1 monster your opponent controls; take control of it until the End Phase.","Status":"Limited","Price":2500,"Action":"->activation-time:**collect<OMZ>[--];select{1};send-to{OMZ};","Trigger":"wait-for{{ODP}}then-do{{**get-collected{activation-time};send-to{OMZ};die;}}"}

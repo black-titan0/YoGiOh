@@ -1,0 +1,1 @@
+{"Name":"Black Pendant","Type":"Spell","Property":"Equip","Description":"The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.","Status":"Unlimited","Price":4300,"Action":"->activation-time:**collect<MZ.OMZ>[--];select{1};increase-attack-power{500};make-horcrux->death-time:**cancel{activation-time};"}

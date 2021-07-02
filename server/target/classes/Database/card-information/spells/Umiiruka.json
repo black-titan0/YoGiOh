@@ -1,0 +1,1 @@
+{"Name":"Umiiruka","Type":"Spell","Property":"Field","Description":"Increase the ATK of all WATER monsters by 500 points and decrease their DEF by 400 points.","Status":"Unlimited","Price":4300,"Action":"->activation-time:**collect<MZ.OMZ>[--MonsterType=12];increase-attack-power{GYN×100};increase-defence-power{-400};->death-time:**cancel{activation-time}"}

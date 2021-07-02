@@ -1,0 +1,1 @@
+{"Name":"Twin Twisters","Type":"Spell","Property":"QuickPlay","Description":"Discard 1 card then target up to 2 Spells/Traps on the field; destroy them.","Status":"Unlimited","Price":3500,"Action":"->activation-time:**collect<H>[--];select{1};send-to{GY};collect<OSZ>[--];select{2};send-to{OGY};die;"}

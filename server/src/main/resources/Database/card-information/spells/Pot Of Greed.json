@@ -1,0 +1,1 @@
+{"Name":"Pot Of Greed","Type":"Spell","Property":"Normal","Description":"Draw 2 cards.","Status":"Limited","Price":2500,"Action":"->activation-time:**draw{2};die;"}

@@ -1,0 +1,1 @@
+{"Name":"Man-Eater Bug","Level":2,"Attribute":"EARTH","Monster Type":"Insect","Card Type":"Effect","Atk":450,"Def":600,"Description":"FLIP: Target 1 monster on the field; destroy that target.","Price":600,"Action":"->flip-time:**collect<OMZ>[-Any-];select{1};kill;","Type":"Monstere"}

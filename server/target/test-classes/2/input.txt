@@ -1,0 +1,34 @@
+user login -u ali -p p
+menu enter Main
+menu enter Duel
+duel new --second-player mhdi --rounds 3
+next phase
+next phase
+select -h 2
+card show -s
+summon
+show board
+next phase
+next phase
+next phase
+next phase
+next phase
+next phase
+select -h 2
+card show -s
+summon
+next phase
+next phase
+next phase
+next phase
+next phase
+next phase
+next phase
+select -m 5
+attack 4
+next phase
+select -h 1
+card show -s
+activate effect
+
+

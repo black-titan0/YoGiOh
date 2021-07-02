@@ -1,0 +1,1 @@
+{"Name":"Ring Of Defense","Type":"Spell","Property":"Quickplay","Description":"When a Trap effect that inflicts damage is activated: Make that effect damage 0.","Status":"Unlimited","Price":3500,"Trigger":"wait-for{{SA}}then-do{{*?*negate-activation;die;}}"}

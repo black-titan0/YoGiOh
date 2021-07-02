@@ -1,0 +1,1 @@
+{"Name":"Mirror Force","Type":"Trap","Property":"Normal","Description":"When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.","Status":"Unlimited","Price":2000,"Trigger":"wait-for{{OMA}}then-do{{*?*collect<OMZ>[--CardPlacement=0&MonsterMode=0];kill;die;}}"}

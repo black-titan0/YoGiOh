@@ -1,0 +1,1 @@
+{"Name":"Forest","Type":"Spell","Property":"Field","Description":"All Insect- Beast- Plant- and Beast-Warrior monsters on the field gain 200 ATK/DEF.","Status":"Unlimited","Price":4300,"Action":"->activation-time:**collect<MZ.OMZ>[--!MonsterType!=6&MonsterType!=8&MonsterType!=13];increase-attack-power{200};increase-defence-power{200};->death-time:**cancel{activation-time}"}

@@ -1,0 +1,1 @@
+{"Name":"Raigeki","Type":"Spell","Property":"Normal","Description":"Destroy all monsters your opponent controls.","Status":"Limited","Price":2500,"Action":"->activation-time:**collect<OMZ>[--];kill;die;"}

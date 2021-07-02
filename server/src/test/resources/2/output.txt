@@ -1,0 +1,469 @@
+user loggedIn successfully!
+game on
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: STANDBY
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: MAIN1
+card selected
+Name: Feral Imp
+Level: 4
+Type: fiend
+ATK: 1300
+DEF: 1400
+Description: A playful little fiend that lurks in the dark waiting to attack an unwary enemy.
+
+summoned successfully
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+safa
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: BATTLE
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: MAIN2
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: END
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+33
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						40
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+its aliz's turn
+phase: DRAW
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+phase: STANDBY
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+phase: MAIN1
+card selected
+Name: Marshmallon
+Level: 3
+Type: fairy
+ATK: 300
+DEF: 500
+Description: Cannot be destroyed by battle. After damage calculation if this card was attacked and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.
+
+summoned successfully
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+phase: BATTLE
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+phase: MAIN2
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+phase: END
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+40
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						32
+c	c	c	c	c	c	
+aliz		:		8000
+--------------------------
+
+its safa's turn
+phase: DRAW
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: STANDBY
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: MAIN1
+
+--------------------------
+aliz		:		8000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	OO	E	E	E	E
+0						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: BATTLE
+card selected
+your opponent's monster is destroyed and your opponent receives 1000 battle damage
+
+--------------------------
+aliz		:		7000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	E	E	E	E	E
+1						FZ
+--------------------------
+FZ						0
+	OO	E	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: MAIN2
+card selected
+Name: Monster Reborn
+Spell
+Type: normal
+StatusLimited
+Description: Target 1 monster in either GY; Special Summon it.
+
+you have to select 1 cards from cards below:
+1. Name: Marshmallon
+Level: 3
+Type: fairy
+ATK: 300
+DEF: 500
+Description: Cannot be destroyed by battle. After damage calculation if this card was attacked and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.
+
+you have to select 1 more card(s)
+Spell activated
+
+--------------------------
+aliz		:		7000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						1
+	OO	OO	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+safa
+card selected
+Name: Marshmallon
+Level: 3
+Type: fairy
+ATK: 300
+DEF: 500
+Description: Cannot be destroyed by battle. After damage calculation if this card was attacked and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.
+
+Monster Reborn:Target 1 monster in either GY; Special Summon it.
+
+
+type "back" to return 
+
+--------------------------
+aliz		:		7000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						1
+	OO	OO	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+
+--------------------------
+aliz		:		7000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						1
+	OO	OO	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+phase: END
+
+--------------------------
+aliz		:		7000
+c	c	c	c	c	c	
+32
+	E	E	E	E	E
+	E	E	E	E	E
+0						FZ
+--------------------------
+FZ						1
+	OO	OO	E	E	E
+	E	E	E	E	E
+						39
+c	c	c	c	c	
+safa		:		8000
+--------------------------
+
+its aliz's turn
+phase: DRAW
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+39
+	E	E	E	E	E
+	OO	OO	E	E	E
+1						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						31
+c	c	c	c	c	c	c	
+aliz		:		7000
+--------------------------
+
+phase: STANDBY
+graveyard empty
+
+type "back" to return 
+
+--------------------------
+safa		:		8000
+c	c	c	c	c	
+39
+	E	E	E	E	E
+	OO	OO	E	E	E
+1						FZ
+--------------------------
+FZ						0
+	E	E	E	E	E
+	E	E	E	E	E
+						31
+c	c	c	c	c	c	c	
+aliz		:		7000
+--------------------------
+

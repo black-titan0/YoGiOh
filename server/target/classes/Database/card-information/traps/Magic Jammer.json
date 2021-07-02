@@ -1,0 +1,1 @@
+{"Name":"Magic Jammer","Type":"Trap","Property":"Counter","Description":"When a Spell Card is activated: Discard 1 card; negate the activation and if you do destroy it.","Status":"Unlimited","Price":3000,"Trigger":"wait-for{{SA}}then-do{{*?*collect<H>[--];select{1};send-to{GY};negate-activation;collect<TR>[--];send-to{GY};die;}}"}
